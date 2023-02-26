@@ -1,0 +1,1 @@
+# Largura-de-barramento-de-endere-os-BE-em-bits
